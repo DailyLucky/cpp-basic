@@ -1,0 +1,11 @@
+# 把编译产生的文件屏蔽掉
+build
+
+# main.cpp也屏蔽掉，毕竟这个更新得会比较频繁
+main.cpp
+
+# freq_opt.txt。该文件存放一些常用的操作，如文件复制。
+freq_opt.txt
+
+# .vscode
+.vscode
