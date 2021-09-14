@@ -22,7 +22,7 @@ private:
 	static int s_c; 
 	
 };
-int Test::s_c = 100;  // 初始化Test类的静态变量
+//int Test::s_c = 100;  // 初始化Test类的静态变量的写法
 
 int main(void)
 {
