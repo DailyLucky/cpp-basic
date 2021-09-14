@@ -4,7 +4,7 @@ build
 # main.cpp也屏蔽掉，毕竟这个更新得会比较频繁
 # mian.cpp 是屏蔽掉当前版本库所有目录下叫这个名字的文件
 # ./main.cpp 是屏蔽.gitignore同一级目录下的main.cpp
-./main.cpp
+main.cpp
 
 # freq_opt.txt。该文件存放一些常用的操作，如文件复制。
 freq_opt.txt
