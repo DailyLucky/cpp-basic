@@ -8,6 +8,7 @@ main.cpp
 
 # freq_opt.txt。该文件存放一些常用的操作，如文件复制。
 freq_opt.txt
-
+# freq_opt.md
+freq_opt.md
 # .vscode
 .vscode
